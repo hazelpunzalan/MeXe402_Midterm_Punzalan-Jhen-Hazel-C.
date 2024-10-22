@@ -1,12 +1,12 @@
 # MeXE402_Midterm_PunzalanJhenHazel_FranciscoVincentJeorge
 
-#INTRODUCTION
+# INTRODUCTION
 
 
 
 
 
-#DATASET DESCRIPTION
+# DATASET DESCRIPTION
 ### Linear Regression Dataset
 
 
