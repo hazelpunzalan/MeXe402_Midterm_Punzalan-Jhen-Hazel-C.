@@ -1,7 +1,9 @@
 # MeXE402_Midterm_PunzalanJhenHazel_FranciscoVincentJeorge
 
 # INTRODUCTION
+#### Linear regression and logistic regression are two fundamental statistical methods used for predictive analysis in various fields, including business, healthcare, and social sciences.
 
+Linear regression is a fundamental statistical technique used to model and analyze the relationship between variables. Specifically, it helps us understand how changes in one or more independent variables (also known as predictors or features) affect a dependent variable (the outcome we want to predict). The core idea behind linear regression is to find a linear equation that best fits the data. This means we look for a straight line that can represent the relationship between the independent variables and the dependent variable.
 
 
 
