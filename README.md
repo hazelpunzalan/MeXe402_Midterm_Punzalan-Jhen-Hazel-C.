@@ -5,7 +5,7 @@
 
 Linear regression is a fundamental statistical technique used to model and analyze the relationship between variables. Specifically, it helps us understand how changes in one or more independent variables (also known as predictors or features) affect a dependent variable (the outcome we want to predict). The core idea behind linear regression is to find a linear equation that best fits the data. This means we look for a straight line that can represent the relationship between the independent variables and the dependent variable.
 
-
+Logistic Regression, on the other hand, is used when the dependent variable is categorical, particularly binary outcomes (e.g., yes/no, success/failure). Instead of predicting a continuous outcome, logistic regression estimates the probability that a given input belongs to a certain category. For instance, it can be applied to predict whether a customer will purchase a product based on various characteristics. The logistic function ensures that the predicted probabilities are between 0 and 1, which is crucial for classification tasks.
 
 
 # DATASET DESCRIPTION
