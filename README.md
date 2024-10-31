@@ -25,3 +25,6 @@ This analysis not only highlights which advertising mediums yield the highest re
 
 ### LOGISTIC REGRESSION
 ![image](https://github.com/user-attachments/assets/f74bc19a-f740-465f-aa39-4eda499ecc73)
+
+![image](https://github.com/user-attachments/assets/78f720eb-34dc-41c0-b63e-707acb297589)
+
