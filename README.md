@@ -16,7 +16,7 @@ This analysis not only highlights which advertising mediums yield the highest re
 
 
 ### Logistic Regression Dataset
-
+This dataset applies logistic regression to investigate how different physicochemical properties affect the quality of red wine. By analyzing factors such as fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, and more, the model pinpoints which characteristics are key indicators of superior wine quality. This insight can assist winemakers in refining their production processes to craft wines that align with or surpass consumer expectations.
 
 # PROJECT OBJECTIVES
 - we'll aim to predict the continuous sales variable based on sdvertising expenditures in TV, RADIO, and NEWSPAPER.
