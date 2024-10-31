@@ -21,3 +21,7 @@ This analysis not only highlights which advertising mediums yield the highest re
 # PROJECT OBJECTIVES
 - we'll aim to predict the continuous sales variable based on sdvertising expenditures in TV, RADIO, and NEWSPAPER.
 - we'll classify wines as either "bad quality" or "good quality" based on transformed quality scores (2 for bad, 4 for good).   
+
+
+### LOGISTIC REGRESSION
+![image](https://github.com/user-attachments/assets/f74bc19a-f740-465f-aa39-4eda499ecc73)
