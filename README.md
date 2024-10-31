@@ -50,5 +50,19 @@ This analysis not only highlights which advertising mediums yield the highest re
 
 ![image](https://github.com/user-attachments/assets/906b1a8f-fd16-401d-b405-4787daaf16a5)
 
+![image](https://github.com/user-attachments/assets/7c5a13e1-9085-45c0-8f68-7b7ff7d9ec74)
 
+![image](https://github.com/user-attachments/assets/46b66c00-64a3-4a57-9fe9-1c1e284f6749)
+
+![image](https://github.com/user-attachments/assets/22694efa-878b-4b57-ac40-6265c00302b5)
+
+![image](https://github.com/user-attachments/assets/fac1c2d3-4824-4396-a262-c40337386f32)
+
+![image](https://github.com/user-attachments/assets/8b17001c-375d-4159-9ffc-3f6df5dc553d)
+
+![image](https://github.com/user-attachments/assets/7ed63b93-79eb-400a-85a7-05478459f781)
+
+![image](https://github.com/user-attachments/assets/e6c46acd-6d47-4eb7-8661-650f80aa42cb)
+
+![image](https://github.com/user-attachments/assets/8ef9d1a2-9cce-4db7-94ac-a323271b665d)
 
