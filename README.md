@@ -68,7 +68,11 @@ Assess the model's performance using metrics such as R-squared, Mean Squared Err
 ![image](https://github.com/user-attachments/assets/f3a79af7-68f9-4533-8327-49f37b6c947e)
 - This code displays the first 10 rows of the wine dataset, showing key characteristics of each wine sample, potentially for exploratory data analysis or model training.
 ![image](https://github.com/user-attachments/assets/ef602874-1c4b-4dda-b7b6-7e9e12ceda0b)
-
+- Fixed Acidity: Wines with values above 10 are considered "1" others "0."
+- Residual Sugar: Values above 3 are "1" others "0."
+- Chlorides: Wines with values above 0.08 are "1" others "0."
+- Total Sulfur Dioxide: Values above 50 are categorized as "1."
+- Alcohol: Wines with an alcohol content above 10% are labeled "1."
 ![image](https://github.com/user-attachments/assets/ddb0025c-719d-4f4a-92df-7d43fa8b7e9f)
 
 ![image](https://github.com/user-attachments/assets/50c11915-d196-45f7-a112-bf3d6a1bdfb5)
@@ -76,7 +80,7 @@ Assess the model's performance using metrics such as R-squared, Mean Squared Err
 ![image](https://github.com/user-attachments/assets/306dfdaa-0cca-47f7-8cc9-36f407614b94)
 - Converts the quality column to binary values: if quality is above 5, it becomes 1; otherwise, it becomes 0.
 ![image](https://github.com/user-attachments/assets/74845789-d132-4d34-a548-b5bf3af7ffc0)
-
+-
 ![image](https://github.com/user-attachments/assets/b6be29a0-de46-4b52-a0fe-25cd7b651882)
 
 ![image](https://github.com/user-attachments/assets/9b76002c-5be4-4797-8951-f236dbcea098)
