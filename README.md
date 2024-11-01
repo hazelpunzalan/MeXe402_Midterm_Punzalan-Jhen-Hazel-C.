@@ -25,7 +25,9 @@ This dataset applies logistic regression to investigate how different physicoche
 
 ### LOGISTIC REGRESSION
 ![image](https://github.com/user-attachments/assets/f74bc19a-f740-465f-aa39-4eda499ecc73)
-
+- Part 1- Data Preprocessing, signals that this part of the code is focused on preparing the dataset for analysis.
+- Imports the Pandas library and Numpy library
+- 
 ![image](https://github.com/user-attachments/assets/78f720eb-34dc-41c0-b63e-707acb297589)
 
 ![image](https://github.com/user-attachments/assets/f3a79af7-68f9-4533-8327-49f37b6c947e)
