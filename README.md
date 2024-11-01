@@ -89,7 +89,7 @@ This code effectively slits the sataset into training and testing sets, preparin
 ![image](https://github.com/user-attachments/assets/0a8f6f6b-f465-4bf9-9e46-e8d33c97004b)
 
 ![image](https://github.com/user-attachments/assets/3ec84a17-2378-4967-8673-0c0636b22cff)
-
+This code applies feature scaling to the training data, preparing it for model training.
 ![image](https://github.com/user-attachments/assets/906b1a8f-fd16-401d-b405-4787daaf16a5)
 
 ![image](https://github.com/user-attachments/assets/7c5a13e1-9085-45c0-8f68-7b7ff7d9ec74)
