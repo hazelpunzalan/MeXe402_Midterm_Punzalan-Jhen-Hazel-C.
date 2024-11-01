@@ -60,27 +60,28 @@ Assess the model's performance using metrics such as R-squared, Mean Squared Err
 
 ### LOGISTIC REGRESSION
 ![image](https://github.com/user-attachments/assets/f74bc19a-f740-465f-aa39-4eda499ecc73)
-- Part 1- Data Preprocessing, signals that this part of the code is focused on preparing the dataset for analysis.
-- Imports the Pandas library and Numpy library
-- Loads the red wine quality dataset from a csv file named into Pandas Dataframe 
+ Part 1- Data Preprocessing, signals that this part of the code is focused on preparing the dataset for analysis.
+ Imports the Pandas library and Numpy library
+ Loads the red wine quality dataset from a csv file named into Pandas Dataframe 
 ![image](https://github.com/user-attachments/assets/78f720eb-34dc-41c0-b63e-707acb297589)
-- This command provide a concise summary of the Dataframe, which includes details about each columns, its data type, and the number of non-null entries.
+ This command provide a concise summary of the Dataframe, which includes details about each columns, its data type, and the number of non-null entries.
 ![image](https://github.com/user-attachments/assets/f3a79af7-68f9-4533-8327-49f37b6c947e)
-- This code displays the first 10 rows of the wine dataset, showing key characteristics of each wine sample, potentially for exploratory data analysis or model training.
+ This code displays the first 10 rows of the wine dataset, showing key characteristics of each wine sample, potentially for exploratory data analysis or model training.
 ![image](https://github.com/user-attachments/assets/ef602874-1c4b-4dda-b7b6-7e9e12ceda0b)
-- Fixed Acidity: Wines with values above 10 are considered "1" others "0."
-- Residual Sugar: Values above 3 are "1" others "0."
-- Chlorides: Wines with values above 0.08 are "1" others "0."
-- Total Sulfur Dioxide: Values above 50 are categorized as "1."
-- Alcohol: Wines with an alcohol content above 10% are labeled "1."
+ Fixed Acidity: Wines with values above 10 are considered "1" others "0."
+ Residual Sugar: Values above 3 are "1" others "0."
+ Chlorides: Wines with values above 0.08 are "1" others "0."
+ Total Sulfur Dioxide: Values above 50 are categorized as "1."
+ Alcohol: Wines with an alcohol content above 10% are labeled "1."
 ![image](https://github.com/user-attachments/assets/ddb0025c-719d-4f4a-92df-7d43fa8b7e9f)
-
+ This code transforms the dataset by creating new categorical columns based on the numerical values of existing columns.
+ This can be useful for various data analysis and modeling tasks, as it allows for easier interpretation and potentially improves the performance of certain algorithms.
 ![image](https://github.com/user-attachments/assets/50c11915-d196-45f7-a112-bf3d6a1bdfb5)
-
+ This code snippet provides a quick way to visualize the structure and content of the modified dataset after the categorical columns have been added.
 ![image](https://github.com/user-attachments/assets/306dfdaa-0cca-47f7-8cc9-36f407614b94)
-- Converts the quality column to binary values: if quality is above 5, it becomes 1; otherwise, it becomes 0.
+ Converts the quality column to binary values: if quality is above 5, it becomes 1; otherwise, it becomes 0.
 ![image](https://github.com/user-attachments/assets/74845789-d132-4d34-a548-b5bf3af7ffc0)
--
+ The code snippet is separating the features (independent variable) and the target variable (dependent variable) from a dataset. This is a common step in machine learning and data analysis workflows.
 ![image](https://github.com/user-attachments/assets/b6be29a0-de46-4b52-a0fe-25cd7b651882)
 
 ![image](https://github.com/user-attachments/assets/9b76002c-5be4-4797-8951-f236dbcea098)
