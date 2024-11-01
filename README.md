@@ -74,6 +74,8 @@ Load the dataset and examine its structure.
 ![image](https://github.com/user-attachments/assets/7ed63b93-79eb-400a-85a7-05478459f781)
 
 ![image](https://github.com/user-attachments/assets/e6c46acd-6d47-4eb7-8661-650f80aa42cb)
-
+- This imports the confusion_matrix function from sklearn.metrics, which is used to evaluate classification models by showing the counts of correct and incorrect predictions for each class.
+- confusion_matrix(y_test, y_pred) compares the actual values (y_test) with the predicted values (y_pred) from the model.
+- This confusion matrix gives insight into the model’s accuracy and error types, helping identify areas where the model might need improvement.
 ![image](https://github.com/user-attachments/assets/8ef9d1a2-9cce-4db7-94ac-a323271b665d)
 
