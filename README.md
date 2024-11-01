@@ -68,11 +68,11 @@ Assess the model's performance using metrics such as R-squared, Mean Squared Err
 ![image](https://github.com/user-attachments/assets/f3a79af7-68f9-4533-8327-49f37b6c947e)
  This code displays the first 10 rows of the wine dataset, showing key characteristics of each wine sample, potentially for exploratory data analysis or model training.
 ![image](https://github.com/user-attachments/assets/ef602874-1c4b-4dda-b7b6-7e9e12ceda0b)
- Fixed Acidity: Wines with values above 10 are considered "1" others "0."
- Residual Sugar: Values above 3 are "1" others "0."
- Chlorides: Wines with values above 0.08 are "1" others "0."
- Total Sulfur Dioxide: Values above 50 are categorized as "1."
- Alcohol: Wines with an alcohol content above 10% are labeled "1."
+- Fixed Acidity: Wines with values above 10 are considered "1" others "0."
+- Residual Sugar: Values above 3 are "1" others "0."
+- Chlorides: Wines with values above 0.08 are "1" others "0."
+- Total Sulfur Dioxide: Values above 50 are categorized as "1."
+- Alcohol: Wines with an alcohol content above 10% are labeled "1."
 ![image](https://github.com/user-attachments/assets/ddb0025c-719d-4f4a-92df-7d43fa8b7e9f)
  This code transforms the dataset by creating new categorical columns based on the numerical values of existing columns.
  This can be useful for various data analysis and modeling tasks, as it allows for easier interpretation and potentially improves the performance of certain algorithms.
@@ -83,7 +83,7 @@ Assess the model's performance using metrics such as R-squared, Mean Squared Err
 ![image](https://github.com/user-attachments/assets/74845789-d132-4d34-a548-b5bf3af7ffc0)
  The code snippet is separating the features (independent variable) and the target variable (dependent variable) from a dataset. This is a common step in machine learning and data analysis workflows.
 ![image](https://github.com/user-attachments/assets/b6be29a0-de46-4b52-a0fe-25cd7b651882)
-
+This code effectively slits the sataset into training and testing sets, preparing it for model training and evaluation.
 ![image](https://github.com/user-attachments/assets/9b76002c-5be4-4797-8951-f236dbcea098)
 
 ![image](https://github.com/user-attachments/assets/0a8f6f6b-f465-4bf9-9e46-e8d33c97004b)
@@ -97,19 +97,19 @@ Assess the model's performance using metrics such as R-squared, Mean Squared Err
 ![image](https://github.com/user-attachments/assets/46b66c00-64a3-4a57-9fe9-1c1e284f6749)
 
 ![image](https://github.com/user-attachments/assets/22694efa-878b-4b57-ac40-6265c00302b5)
-- This code snippet is taking the test data (X_test), scaling it, and then using a trained machine learning model to make predictions. The predicted values are stored in y_pred.
+ This code snippet is taking the test data (X_test), scaling it, and then using a trained machine learning model to make predictions. The predicted values are stored in y_pred.
 ![image](https://github.com/user-attachments/assets/fac1c2d3-4824-4396-a262-c40337386f32)
 
 ![image](https://github.com/user-attachments/assets/8b17001c-375d-4159-9ffc-3f6df5dc553d)
 
 ![image](https://github.com/user-attachments/assets/7ed63b93-79eb-400a-85a7-05478459f781)
--  This code snippet takes a set of input features, scales them, and uses a trained machine learning model to predict the class of the input data. In this case, the predicted class is '0'.
+  This code snippet takes a set of input features, scales them, and uses a trained machine learning model to predict the class of the input data. In this case, the predicted class is '0'.
   
 ![image](https://github.com/user-attachments/assets/e6c46acd-6d47-4eb7-8661-650f80aa42cb)
-- This imports the confusion_matrix function from sklearn.metrics, which is used to evaluate classification models by showing the counts of correct and incorrect predictions for each class.
-- confusion_matrix(y_test, y_pred) compares the actual values (y_test) with the predicted values (y_pred) from the model.
-- This confusion matrix gives insight into the model’s accuracy and error types, helping identify areas where the model might need improvement.
+ This imports the confusion_matrix function from sklearn.metrics, which is used to evaluate classification models by showing the counts of correct and incorrect predictions for each class.
+ Confusion_matrix(y_test, y_pred) compares the actual values (y_test) with the predicted values (y_pred) from the model.
+ This confusion matrix gives insight into the model’s accuracy and error types, helping identify areas where the model might need improvement.
 ![image](https://github.com/user-attachments/assets/8ef9d1a2-9cce-4db7-94ac-a323271b665d)
-- This imports the accuracy_score function from sklearn.metrics, which is used to calculate the accuracy of a classification model.
-- accuracy_score(y_test, y_pred) computes the accuracy by comparing the actual values (y_test) with the predicted values (y_pred).
-- This metric provides a general idea of the model's performance, with a higher value indicating better accuracy. However, in cases of imbalanced datasets, accuracy alone may not be enough to evaluate the model's performance comprehensively.
+ This imports the accuracy_score function from sklearn.metrics, which is used to calculate the accuracy of a classification model.
+ Accuracy_score(y_test, y_pred) computes the accuracy by comparing the actual values (y_test) with the predicted values (y_pred).
+ This metric provides a general idea of the model's performance, with a higher value indicating better accuracy. However, in cases of imbalanced datasets, accuracy alone may not be enough to evaluate the model's performance comprehensively.
