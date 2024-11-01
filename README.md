@@ -39,7 +39,7 @@ This dataset applies logistic regression to investigate how different physicoche
 ![image](https://github.com/user-attachments/assets/50c11915-d196-45f7-a112-bf3d6a1bdfb5)
 
 ![image](https://github.com/user-attachments/assets/306dfdaa-0cca-47f7-8cc9-36f407614b94)
-
+- Converts the quality column to binary values: if quality is above 5, it becomes 1; otherwise, it becomes 0.
 ![image](https://github.com/user-attachments/assets/74845789-d132-4d34-a548-b5bf3af7ffc0)
 
 ![image](https://github.com/user-attachments/assets/b6be29a0-de46-4b52-a0fe-25cd7b651882)
