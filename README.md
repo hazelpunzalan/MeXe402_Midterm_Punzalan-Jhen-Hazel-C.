@@ -92,13 +92,13 @@ Assess the model's performance using metrics such as R-squared, Mean Squared Err
 ![image](https://github.com/user-attachments/assets/46b66c00-64a3-4a57-9fe9-1c1e284f6749)
 
 ![image](https://github.com/user-attachments/assets/22694efa-878b-4b57-ac40-6265c00302b5)
-
+- This code snippet is taking the test data (X_test), scaling it, and then using a trained machine learning model to make predictions. The predicted values are stored in y_pred.
 ![image](https://github.com/user-attachments/assets/fac1c2d3-4824-4396-a262-c40337386f32)
 
 ![image](https://github.com/user-attachments/assets/8b17001c-375d-4159-9ffc-3f6df5dc553d)
 
 ![image](https://github.com/user-attachments/assets/7ed63b93-79eb-400a-85a7-05478459f781)
--  this code snippet takes a set of input features, scales them, and uses a trained machine learning model to predict the class of the input data. In this case, the predicted class is '0'.
+-  This code snippet takes a set of input features, scales them, and uses a trained machine learning model to predict the class of the input data. In this case, the predicted class is '0'.
   
 ![image](https://github.com/user-attachments/assets/e6c46acd-6d47-4eb7-8661-650f80aa42cb)
 - This imports the confusion_matrix function from sklearn.metrics, which is used to evaluate classification models by showing the counts of correct and incorrect predictions for each class.
