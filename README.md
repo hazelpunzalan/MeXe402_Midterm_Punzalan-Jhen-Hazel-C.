@@ -24,7 +24,11 @@ This dataset applies logistic regression to investigate how different physicoche
 - We'll classify wines as either "bad quality" or "good quality" based on transformed quality scores (2 for bad, 4 for good).   
 
 ### LINEAR REGRESSION
+- Part 1 Data Preparation:
+Load the dataset and examine its structure.
 
+
+![Screenshot 2024-11-01 201313](https://github.com/user-attachments/assets/d7dadcdb-9c45-426d-8e6c-bbb6fa3c9f74)
 
 
 
