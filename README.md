@@ -23,6 +23,7 @@ This dataset applies logistic regression to investigate how different physicoche
 - We'll aim to predict the continuous sales variable based on sdvertising expenditures in TV, RADIO, and NEWSPAPER.
 - We'll classify wines as either "bad quality" or "good quality" based on transformed quality scores (2 for bad, 4 for good).   
 
+# RESULTS AND DISCUSSION
 ### LINEAR REGRESSION
 - Part 1 Data Preparation:
 Load the dataset and examine its structure.
