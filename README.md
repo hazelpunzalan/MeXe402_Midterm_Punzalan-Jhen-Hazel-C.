@@ -30,11 +30,20 @@ Load the dataset and examine its structure.
 
 ![Screenshot 2024-11-01 201313](https://github.com/user-attachments/assets/d7dadcdb-9c45-426d-8e6c-bbb6fa3c9f74)
 
-- Part 2 Creating the Training Set and the Test Set
+- Part 2 Creating the Training Set and the Test Set :
   Visualize the relationships between advertising budgets and sales.
 Check for correlations among the variables.
 
 ![Screenshot 2024-11-01 201849](https://github.com/user-attachments/assets/fdcf4d7c-f66d-490d-b4a5-309df196044e)
+
+- Part 3  Modeling:
+
+Split the data into training and testing sets.
+Implement linear regression using a library like scikit-learn.
+
+![Screenshot 2024-11-01 201953](https://github.com/user-attachments/assets/cbad21cb-9ecc-4acb-9b3e-e2cb73565839)
+
+
 
 ### LOGISTIC REGRESSION
 ![image](https://github.com/user-attachments/assets/f74bc19a-f740-465f-aa39-4eda499ecc73)
