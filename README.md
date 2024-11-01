@@ -27,9 +27,9 @@ This dataset applies logistic regression to investigate how different physicoche
 ![image](https://github.com/user-attachments/assets/f74bc19a-f740-465f-aa39-4eda499ecc73)
 - Part 1- Data Preprocessing, signals that this part of the code is focused on preparing the dataset for analysis.
 - Imports the Pandas library and Numpy library
-- 
+- Loads the red wine quality dataset from a csv file named into Pandas Dataframe 
 ![image](https://github.com/user-attachments/assets/78f720eb-34dc-41c0-b63e-707acb297589)
-
+- This command provide a concise summary of the Dataframe, which includes details about each columns, its data type, and the number of non-null entries.
 ![image](https://github.com/user-attachments/assets/f3a79af7-68f9-4533-8327-49f37b6c947e)
 
 ![image](https://github.com/user-attachments/assets/ef602874-1c4b-4dda-b7b6-7e9e12ceda0b)
