@@ -19,8 +19,13 @@ This analysis not only highlights which advertising mediums yield the highest re
 This dataset applies logistic regression to investigate how different physicochemical properties affect the quality of red wine. By analyzing factors such as fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, and more, the model pinpoints which characteristics are key indicators of superior wine quality. This insight can assist winemakers in refining their production processes to craft wines that align with or surpass consumer expectations.
 
 # PROJECT OBJECTIVES
-- we'll aim to predict the continuous sales variable based on sdvertising expenditures in TV, RADIO, and NEWSPAPER.
-- we'll classify wines as either "bad quality" or "good quality" based on transformed quality scores (2 for bad, 4 for good).   
+- The main goal of the advertising dataset is to analyze the impact of various advertising channels on sales. By using linear regression you can identify how factors such as TV, radio, and newspaper advertising budgets influence the sales figures.
+- We'll aim to predict the continuous sales variable based on sdvertising expenditures in TV, RADIO, and NEWSPAPER.
+- We'll classify wines as either "bad quality" or "good quality" based on transformed quality scores (2 for bad, 4 for good).   
+
+### LINEAR REGRESSION
+
+
 
 
 ### LOGISTIC REGRESSION
