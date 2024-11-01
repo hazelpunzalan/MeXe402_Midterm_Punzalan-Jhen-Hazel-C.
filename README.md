@@ -78,4 +78,6 @@ Load the dataset and examine its structure.
 - confusion_matrix(y_test, y_pred) compares the actual values (y_test) with the predicted values (y_pred) from the model.
 - This confusion matrix gives insight into the model’s accuracy and error types, helping identify areas where the model might need improvement.
 ![image](https://github.com/user-attachments/assets/8ef9d1a2-9cce-4db7-94ac-a323271b665d)
-
+- This imports the accuracy_score function from sklearn.metrics, which is used to calculate the accuracy of a classification model.
+- accuracy_score(y_test, y_pred) computes the accuracy by comparing the actual values (y_test) with the predicted values (y_pred).
+- This metric provides a general idea of the model's performance, with a higher value indicating better accuracy. However, in cases of imbalanced datasets, accuracy alone may not be enough to evaluate the model's performance comprehensively.
