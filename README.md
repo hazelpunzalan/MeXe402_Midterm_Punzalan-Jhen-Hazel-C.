@@ -66,7 +66,7 @@ Assess the model's performance using metrics such as R-squared, Mean Squared Err
 ![image](https://github.com/user-attachments/assets/78f720eb-34dc-41c0-b63e-707acb297589)
 - This command provide a concise summary of the Dataframe, which includes details about each columns, its data type, and the number of non-null entries.
 ![image](https://github.com/user-attachments/assets/f3a79af7-68f9-4533-8327-49f37b6c947e)
-
+- This code displays the first 10 rows of the wine dataset, showing key characteristics of each wine sample, potentially for exploratory data analysis or model training.
 ![image](https://github.com/user-attachments/assets/ef602874-1c4b-4dda-b7b6-7e9e12ceda0b)
 
 ![image](https://github.com/user-attachments/assets/ddb0025c-719d-4f4a-92df-7d43fa8b7e9f)
