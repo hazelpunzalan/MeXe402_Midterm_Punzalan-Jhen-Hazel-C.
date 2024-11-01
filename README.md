@@ -41,7 +41,20 @@ Check for correlations among the variables.
 Split the data into training and testing sets.
 Implement linear regression using a library like scikit-learn.
 
-![Screenshot 2024-11-01 201953](https://github.com/user-attachments/assets/cbad21cb-9ecc-4acb-9b3e-e2cb73565839)
+![Screenshot 2024-11-01 204106](https://github.com/user-attachments/assets/6001b8d0-0d88-4173-a18e-c548e6d927ae)
+
+- Part 4 Evaluation:
+
+Assess the model's performance using metrics such as R-squared, Mean Squared Error (MSE), and visualizations like residual plots.
+
+![Screenshot 2024-11-01 204219](https://github.com/user-attachments/assets/328cb8c1-4343-4455-9b47-e7e01e5d7700)
+![Screenshot 2024-11-01 204233](https://github.com/user-attachments/assets/91db24a0-d02c-4e9f-8f73-dd6dde5d94df)
+![Screenshot 2024-11-01 204242](https://github.com/user-attachments/assets/e7e5efcd-adad-4a4b-a73a-79863d67baab)
+
+
+
+
+
 
 
 
