@@ -91,11 +91,12 @@ This code effectively slits the sataset into training and testing sets, preparin
 ![image](https://github.com/user-attachments/assets/3ec84a17-2378-4967-8673-0c0636b22cff)
 This code applies feature scaling to the training data, preparing it for model training.
 ![image](https://github.com/user-attachments/assets/906b1a8f-fd16-401d-b405-4787daaf16a5)
-
+This code snippet lays the foundation for building and training a Logistic Regression model. The model will learn the relationship between the features and the target variable from the training data, enabling it to make predictions on new, unseen data.
 ![image](https://github.com/user-attachments/assets/7c5a13e1-9085-45c0-8f68-7b7ff7d9ec74)
-
+This code demonstrates the training phase of a logistic regression model. 
+Logistic Regression is a popular classification algorithm used to predict the probability of a binary outcome.
 ![image](https://github.com/user-attachments/assets/46b66c00-64a3-4a57-9fe9-1c1e284f6749)
-
+This code demonstrates the process of making predictions on a test set using a trained Logistic Regression model.
 ![image](https://github.com/user-attachments/assets/22694efa-878b-4b57-ac40-6265c00302b5)
  This code snippet is taking the test data (X_test), scaling it, and then using a trained machine learning model to make predictions. The predicted values are stored in y_pred.
 ![image](https://github.com/user-attachments/assets/fac1c2d3-4824-4396-a262-c40337386f32)
