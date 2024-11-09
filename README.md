@@ -115,3 +115,9 @@ This code demonstrates the process of making predictions on a test set using a t
  This imports the accuracy_score function from sklearn.metrics, which is used to calculate the accuracy of a classification model.
  Accuracy_score(y_test, y_pred) computes the accuracy by comparing the actual values (y_test) with the predicted values (y_pred).
  This metric provides a general idea of the model's performance, with a higher value indicating better accuracy. However, in cases of imbalanced datasets, accuracy alone may not be enough to evaluate the model's performance comprehensively.
+
+
+
+
+ ##Reference
+- https://www.kaggle.com/datasets/ashydv/advertising-dataset/discussion/88392
